@@ -14,6 +14,6 @@ public class Main {
 
         int bonus = amount / 100 * percent + balance;
 
-        System.out.println(bonus);
+        System.out.println("Баланс миль: " + bonus);
     }
 }
